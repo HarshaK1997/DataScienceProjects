@@ -1,0 +1,61 @@
+Consider an application for maintaining a record of different Phones to be sold at an electronic retail store. Each record stores all the details regarding the phone including, Phone name, price, Quantity in stock. Implement such an application using Binary Search Tree (BST). Use the following data structures for this question :
+  (1) BST : Construct a BST Class which includes pointer to root's node of the BST and the total number of Phones.
+  (2) Phone : Construct a class Phone, containing type of phone (string), price (integer), Quantity in stock (integer).
+  (3) Node : A Class node, which represents the nodes in the BST. Include an instance of the Phone class here, and the rest as per required.
+Assume that no two Phones have the same price in our store. Any other assumptions taken need to be explicitly mentioned in the design document file.
+You need to implement the following functions using the above structures : 
+  (1) createEmptyBST():
+      This function creates an empty BST, with root pointing to null initially, and returns this instance of BST class.
+  (2) insertIntoBST(bst, phone) :
+      This function inserts a phone record (as per the price of {phone} variable) at the appropriate position in the BST {bst}, and then returns the same BST (not a copy).
+  (3) findInBST(bst, cost) : 
+      This function finds whether there exists a Phone of price {cost}, and if there does, return that Phone variable, if not, return null.
+  (4) findMaxPrice (bst) :
+      This function returns the Phone with maximum price amongst all phones available in the store.
+  (5) findMinPrice (bst) :
+      This function returns the Phone with minimum price amongst all phones available in the store.
+  (6) findSecondMaxPrice (bst), findSecondMinPrice (bst) :
+      This function returns the Phone with second highest price amongst all phones available in the store.
+  (7) listAllPrices (bst) :
+      Generate a linked list of prices of all Phones in increasing order, and return the same. You will have to implement all the required functionality of the Linked List data structure independently for this function.
+Once the Linked List is created, print it in the o/p file.
+  (8) modifyQtyInStock (bst, name, price, new_qty) :
+      Using this function, you should find the entry in the BST {bst} having {name} and {price} and set its quantity left in stock field to new_qty.
+  (9) deleteFromBST (bst, name, price) :
+      This function is responsible for deleting a Phone entry from the BST, having same name and price as {name} and {price} respectively.
+  (10) totalBooks (bst) :
+      This function should return a pair of integers, first being the total different types of Phones currently in the store, and the second integer being the total number of Phones currently in stock in the store i.e sum of quantity left in stock field of each Phone entry in the BST.
+Write a python code for the above question, with file name being your role number. 
+The code shall have at least 3 classes, and at least 11 functions implementing the above. You are allowed to implement helper functions to aid you in the process. 
+To ensure ease of use and readability of your program's output, it's recommended that you implement the __str__ method for each class. For example, print(object_of_Phone) shall return a string : 
+Phone name : {name of Phone field}, Price : {price field}, Quantity left in stock : {quantity in stock field}.
+You should implement your main driver so that you take input from an 'input.txt' and output to an 'output.txt' file. 
+'input.txt' file containing 3 phone entries would look like : 
+    3
+    Samsung Galaxy M34, 17950, 20
+    OnePlus Nord CE 3, 21999, 10
+    Apple Iphone 14, 65999, 50
+Here, the first line holds only one integer, representing total number of Phone entries. The consecutive lines each holds one Phone entry, type, price and quantity in stock seperated by commas. 
+'output.txt' File would simply contain the outputs of the each function of the driver main function on seperate lines.
+All given function names and class names should be exactly same, since your code will be tested on a different main driver code.
+- Input file name should not be hardcoded in the code. Take it as an input from user. Also, output file name should also be taken from the user and not hardcoded in the file. One should be able run your program from command line and menu should be shown to the user. Program should run in the loop to take one command after another and o/p given on screen or file.
+Your program should be user friendly to be used. (Use your creativity and mention assumptions)
+For example, add phone can just add one phone or multiple phones from a file. Internally it can use insertIntoBST function
+Your design doc document should have a section giving detailed instruction, how one can run the program. What all needs to be installed as pre-requisite. Assume, user is having a fresh machine with just windows installed on it. 
+Files to be uploaded in Canvas 
+By 19-Feb
+Design document
+Test plan 
+By 04-Mar
+Updated Design Doc
+Test execution Report
+Test Data
+Code and Executable
+========================================
+=========================================
+Few points coming out after discussion in the class
+- You may come up with C, C++, Java code
+- No inbuilt libraries have to be used. Build your own data structures
+In Design document, have a section to give detailed instructions to run the code.
+Pre-requisites, packages to be installed.
+One should be able to debug and run the code starting with fresh windows machine.

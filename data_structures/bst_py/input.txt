@@ -1,0 +1,10 @@
+9
+Samsung Galaxy M34, 17950, 30
+OnePlus Nord CE 3, 21999, 40
+Apple Iphone 13, 63999, 20
+Apple Iphone 14, 65999, 50
+Samsung Galaxy M33, 19950, 10
+OnePlus Nord CE 4, 23999, 110
+Apple Iphone 12, 61999, 90
+Samsung Galaxy M35, 21950, 111
+OnePlus Nord CE 5, 25999, 222

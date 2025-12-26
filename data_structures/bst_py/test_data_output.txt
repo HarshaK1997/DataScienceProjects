@@ -1,0 +1,695 @@
+bash-3.2$ python3 bst.py
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 1
+Enter the name of the file: input.txt
+Insertion operation complete.
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 1
+Enter the name of the file: input.txt
+Duplicate records found, which are ignored.
+Insertion operation complete.
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 12
+Printing all phones details of the BST
+Phone name : Samsung Galaxy M34, Price : 17950, Quantity left in stock : 30
+Phone name : Samsung Galaxy M33, Price : 19950, Quantity left in stock : 10
+Phone name : Samsung Galaxy M35, Price : 21950, Quantity left in stock : 111
+Phone name : OnePlus Nord CE 3, Price : 21999, Quantity left in stock : 40
+Phone name : OnePlus Nord CE 4, Price : 23999, Quantity left in stock : 110
+Phone name : OnePlus Nord CE 5, Price : 25999, Quantity left in stock : 222
+Phone name : Apple Iphone 12, Price : 61999, Quantity left in stock : 90
+Phone name : Apple Iphone 13, Price : 63999, Quantity left in stock : 20
+Phone name : Apple Iphone 14, Price : 65999, Quantity left in stock : 50
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 2
+Enter the number of entries: 1
+Enter the details is below format:
+<PHONE_NAME>, <PRICE>, <QUANTITY>
+Enter the phone details: Samsung Galaxy M34, 17950, 30
+Duplicate records found, which are ignored.
+Insertion operation complete.
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 2
+Enter the number of entries: 1
+Enter the details is below format:
+<PHONE_NAME>, <PRICE>, <QUANTITY>
+Enter the phone details: Samsung Galaxy M38, 16000, 40
+Insertion operation complete.
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 12
+Printing all phones details of the BST
+Phone name : Samsung Galaxy M38, Price : 16000, Quantity left in stock : 40
+Phone name : Samsung Galaxy M34, Price : 17950, Quantity left in stock : 30
+Phone name : Samsung Galaxy M33, Price : 19950, Quantity left in stock : 10
+Phone name : Samsung Galaxy M35, Price : 21950, Quantity left in stock : 111
+Phone name : OnePlus Nord CE 3, Price : 21999, Quantity left in stock : 40
+Phone name : OnePlus Nord CE 4, Price : 23999, Quantity left in stock : 110
+Phone name : OnePlus Nord CE 5, Price : 25999, Quantity left in stock : 222
+Phone name : Apple Iphone 12, Price : 61999, Quantity left in stock : 90
+Phone name : Apple Iphone 13, Price : 63999, Quantity left in stock : 20
+Phone name : Apple Iphone 14, Price : 65999, Quantity left in stock : 50
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 3
+Enter the phone price to search: 21950
+Phone name : Samsung Galaxy M35, Price : 21950, Quantity left in stock : 111
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 4
+Phone name : Apple Iphone 14, Price : 65999, Quantity left in stock : 50
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 5
+Phone name : Apple Iphone 13, Price : 63999, Quantity left in stock : 20
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 6
+Phone name : Samsung Galaxy M38, Price : 16000, Quantity left in stock : 40
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 7
+Phone name : Samsung Galaxy M34, Price : 17950, Quantity left in stock : 30
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 8
+Enter the name of the phone to be deleted: XXX
+Enter the cost of the phone to be deleted: 20000
+Node is not found in the BST
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 8
+Enter the name of the phone to be deleted: XXX
+Enter the cost of the phone to be deleted: 19950
+Node is not found in the BST
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 8
+Enter the name of the phone to be deleted: Apple Iphone 14
+Enter the cost of the phone to be deleted: 65999
+Deleted phone details 
+ Phone name : Apple Iphone 14, Price : 65999, Quantity left in stock : 50
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 12
+Printing all phones details of the BST
+Phone name : Samsung Galaxy M38, Price : 16000, Quantity left in stock : 40
+Phone name : Samsung Galaxy M34, Price : 17950, Quantity left in stock : 30
+Phone name : Samsung Galaxy M33, Price : 19950, Quantity left in stock : 10
+Phone name : Samsung Galaxy M35, Price : 21950, Quantity left in stock : 111
+Phone name : OnePlus Nord CE 3, Price : 21999, Quantity left in stock : 40
+Phone name : OnePlus Nord CE 4, Price : 23999, Quantity left in stock : 110
+Phone name : OnePlus Nord CE 5, Price : 25999, Quantity left in stock : 222
+Phone name : Apple Iphone 12, Price : 61999, Quantity left in stock : 90
+Phone name : Apple Iphone 13, Price : 63999, Quantity left in stock : 20
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 8
+Enter the name of the phone to be deleted: OnePlus Nord CE 3
+Enter the cost of the phone to be deleted: 21999
+Deleted phone details 
+ Phone name : OnePlus Nord CE 3, Price : 21999, Quantity left in stock : 40
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 12
+Printing all phones details of the BST
+Phone name : Samsung Galaxy M38, Price : 16000, Quantity left in stock : 40
+Phone name : Samsung Galaxy M34, Price : 17950, Quantity left in stock : 30
+Phone name : Samsung Galaxy M33, Price : 19950, Quantity left in stock : 10
+Phone name : Samsung Galaxy M35, Price : 21950, Quantity left in stock : 111
+Phone name : OnePlus Nord CE 4, Price : 23999, Quantity left in stock : 110
+Phone name : OnePlus Nord CE 5, Price : 25999, Quantity left in stock : 222
+Phone name : Apple Iphone 12, Price : 61999, Quantity left in stock : 90
+Phone name : Apple Iphone 13, Price : 63999, Quantity left in stock : 20
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 8
+Enter the name of the phone to be deleted: OnePlus Nord CE 4
+Enter the cost of the phone to be deleted: 23999
+Deleted phone details 
+ Phone name : OnePlus Nord CE 4, Price : 23999, Quantity left in stock : 110
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 12
+Printing all phones details of the BST
+Phone name : Samsung Galaxy M38, Price : 16000, Quantity left in stock : 40
+Phone name : Samsung Galaxy M34, Price : 17950, Quantity left in stock : 30
+Phone name : Samsung Galaxy M33, Price : 19950, Quantity left in stock : 10
+Phone name : Samsung Galaxy M35, Price : 21950, Quantity left in stock : 111
+Phone name : OnePlus Nord CE 5, Price : 25999, Quantity left in stock : 222
+Phone name : Apple Iphone 12, Price : 61999, Quantity left in stock : 90
+Phone name : Apple Iphone 13, Price : 63999, Quantity left in stock : 20
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 8
+Enter the name of the phone to be deleted: Samsung Galaxy M34
+Enter the cost of the phone to be deleted: 17950
+Deleted phone details 
+ Phone name : Samsung Galaxy M34, Price : 17950, Quantity left in stock : 30
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 12
+Printing all phones details of the BST
+Phone name : Samsung Galaxy M38, Price : 16000, Quantity left in stock : 40
+Phone name : Samsung Galaxy M33, Price : 19950, Quantity left in stock : 10
+Phone name : Samsung Galaxy M35, Price : 21950, Quantity left in stock : 111
+Phone name : OnePlus Nord CE 5, Price : 25999, Quantity left in stock : 222
+Phone name : Apple Iphone 12, Price : 61999, Quantity left in stock : 90
+Phone name : Apple Iphone 13, Price : 63999, Quantity left in stock : 20
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 9
+Update stock by entering the following information
+Enter the name of the phone : Apple Iphone 13
+Enter the cost : 63999
+Enter the new quantity : 30
+Phone : Apple Iphone 13, Price: 63999, Quantity: 30
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 12
+Printing all phones details of the BST
+Phone name : Samsung Galaxy M38, Price : 16000, Quantity left in stock : 40
+Phone name : Samsung Galaxy M33, Price : 19950, Quantity left in stock : 10
+Phone name : Samsung Galaxy M35, Price : 21950, Quantity left in stock : 111
+Phone name : OnePlus Nord CE 5, Price : 25999, Quantity left in stock : 222
+Phone name : Apple Iphone 12, Price : 61999, Quantity left in stock : 90
+Phone name : Apple Iphone 13, Price : 63999, Quantity left in stock : 30
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 9
+Update stock by entering the following information
+Enter the name of the phone : XXX
+Enter the cost : 20000
+Enter the new quantity : 9
+No phone found with name 'XXX' and price '20000'
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 9
+Update stock by entering the following information
+Enter the name of the phone : Samsung Galaxy M33
+Enter the cost : 20000
+Enter the new quantity : 30
+No phone found with name 'Samsung Galaxy M33' and price '20000'
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 12
+Printing all phones details of the BST
+Phone name : Samsung Galaxy M38, Price : 16000, Quantity left in stock : 40
+Phone name : Samsung Galaxy M33, Price : 19950, Quantity left in stock : 10
+Phone name : Samsung Galaxy M35, Price : 21950, Quantity left in stock : 111
+Phone name : OnePlus Nord CE 5, Price : 25999, Quantity left in stock : 222
+Phone name : Apple Iphone 12, Price : 61999, Quantity left in stock : 90
+Phone name : Apple Iphone 13, Price : 63999, Quantity left in stock : 30
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 10
+Enter filename as *.txt, to save prices :
+output.txt
+output.txt already exists.
+Do you want to overright the file: y/n
+y
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 11
+Phone count and quantity is 
+ 6 503
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 20
+Please enter the valid option
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 0
+Operation successful
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 12
+Printing all phones details of the BST
+BST is empty
+
+PHONE RECORD MANAGER
+ 0. Restart Freshly
+ 1. File Input
+ 2. Command line Input
+ 3. Search Cost
+ 4. Find max Price
+ 5. Find second max Price
+ 6. Find min Price
+ 7. Find second min Price
+ 8. Delete record
+ 9. Update stock
+10. List all the prices
+11. Display number of phone type and stock pair
+12. Print All the phones details
+13. Exit
+Enter your choice: 13
+
+Thank you...
+Program terminated successfully...
+bash-3.2$ cat output.txt 
+16000
+19950
+21950
+25999
+61999
+63999
+bash-3.2$ 
