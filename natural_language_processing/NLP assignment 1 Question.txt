@@ -1,0 +1,20 @@
+You are required to implement a simple n-gram language model. Calculate perplexity on a test set, analyze impact of different n-gram sizes on the model's performance.
+
+
+N-gram Model - language model where probability of a word is calculated based on the previous n-1 words in the sequence
+
+Perplexity : metric used to evaluate the quality of a language model; lower perplexity value indicates better prediction accuracy
+
+Data analysis :  Compare performance of the model on different n-gram sizes (unigrams, bigrams, trigrams) 
+
+Datasets : Use a description of an equipment (software/hardware) from your work environment.
+
+Check : go through dataset to see if it has been preprocessed.  If not, clear and prepare the corpus for processing.  Use tokenization, stemming/lemmatization and removal of stop words.  Twitter datasets may require that you handle emoji's and special characters.  
+
+The application you develop must handle queries on this equipment. e.g. what is the primary component, what are the failure symptoms, what is usage process
+
+You can use the lab exercise on Language Modeling as reference.  
+
+Submission as zip file:
+1.  A one page document specifying crisply work you have done including perplexity value and analysis of different n-gram sizes.
+2.  .py file - source code

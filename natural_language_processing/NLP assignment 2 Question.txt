@@ -1,0 +1,30 @@
+Text Summarization
+
+Text summarization allows users to summarize large amounts of text thereby enabling quick reading without loosing any important information.
+
+e.g.  reading ten newspapers would be a time consuming task.  Summarizing information from the newspapers would be advantageous in terms of time and enabling quick grasp of news. 
+
+ 
+
+Exercise :  Use NLTK to perform text summarization of a Wikipedia page on any topic.  Compare result with use of GenSim Summarizer.  Optionally, you can also check your NLTK results with Open Source LLMs.
+
+Steps:
+
+Pick a text. Read and understand the text carefully.  Carefully analyze the text and what you want as summary from the text.  Now also look at similar text and see if your definition of summary can be generalized.  Select the relevant information you want in the summary.
+Write code to summarize text using steps 3-9
+Import necessary libraries. g. for NLTK, import nltk, stopwords, word and sentence tokenizers
+Get text from Wikipedia
+Preprocessing
+Tokenize sentences
+Create frequency table
+Calculate value of each sentence based on step 5
+Pick sentences based on step 6 and add to generate summary
+Check output with the output you wanted. See how far it matches.
+Now, feed similar text and check if summarizer works as you expect.
+ 
+
+Submission as .zip file:
+
+Written work on step 1, step 10 and 11
+Code as .py file
+Comparison results between NLTK, GenSim and other opensource LLMs

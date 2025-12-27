@@ -1,0 +1,35 @@
+Assignment 2 refers to exploring pyspark MLLib library and develop and run Machine learning experiments
+
+The task can be classification or regression depending on the problem statement word document 
+
+The document name contains group number as allocated earlier. 
+
+Deadline: 8th March 25, 11.59PM IST
+
+Submission: You can upload or share by email .pynb jupiter notebook and along with .html file (html converted version of .pynb)
+
+You are encouraged to leverage Databricks community edition platform to run ML experiements.
+
+Assignment 2 help document/tutorial:
+
+Creating community edition account: https://community.cloud.databricks.com/login.htmlLinks to an external site.
+
+You can select Azure for example for cloud:
+
+https://www.youtube.com/watch?v=n4Zt7YAqNPwLinks to an external site.
+
+
+Developing ML on Databricks tutorial:
+
+https://docs.databricks.com/en/machine-learning/train-model/mllib.htmlLinks to an external site.
+
+
+Submission instructions:
+
+Case study details and proposed models
+
+1. Pre-processing
+2. Exploratory data analysis
+3. Model building
+4. Performance evaluation
+5. Conclusions

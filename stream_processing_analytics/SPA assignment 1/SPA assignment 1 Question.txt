@@ -1,0 +1,30 @@
+Details:
+1. Group Information: Case study problem title, group members -IDs, and names
+2. Abstract
+3. Architecture details
+4. Use cases where it is suitable
+5. Language/programming/implementation details
+6. Use case if any you are considering to illustrate as demo (furnish screen shots)
+7. Explicitly mention scripts/commands to be used as part of streaming integration  with other platforms if applicable
+8. Conclusions and inferences
+
+Weightage: 10Marks; Note: for demo there will be 3M.
+
+Groups and assignment allocation:
+
+Group	Topic	Resource Link
+1	Architecture and Processing using Apache Pulser	https://pulsar.apache.org/Links to an external site.
+2	Architecture and Processing using Spring Cloud Dataflow	https://spring.io/projects/spring-cloud-dataflowLinks to an external site.
+3	Architecture and Stream processing using Akka	https://doc.akka.io/docs/akka/current/stream/index.htmlLinks to an external site.
+4	Architecture and Stream processing using Samza	https://samza.apache.org/learn/documentation/latest/Links to an external site.
+5	Architecture and streaming using Apache Flink	https://flink.apache.org/Links to an external site.
+6	Architecture and Streaming with Apache Storm	https://storm.apache.org/releases/current/index.htmlLinks to an external site.
+7	AWS Kenisis Architecture and Stream processing	https://aws.amazon.com/kinesis/Links to an external site.
+8	Kafka Streaming SQL	https://docs.confluent.io/platform/current/streams-ksql.htmlLinks to an external site.
+9	Structured Streaming in Data Bricks	https://docs.databricks.com/spark/latest/structured-streaming/index.htmlLinks to an external site.
+10	Architecture and streaming using Apache Flink	https://flink.apache.org/Links to an external site.
+11	Architecture and Stream processing using Samza	https://samza.apache.org/learn/documentation/latest/Links to an external site.
+12	Architecture and Streaming with Apache Storm	https://storm.apache.org/releases/current/index.htmlLinks to an external site.
+13	Kafka Streaming SQL	https://docs.confluent.io/platform/current/streams-ksql.htmlLinks to an external site.
+14	Architecture and Stream processing using Akka	https://doc.akka.io/docs/akka/current/stream/index.htmlLinks to an external site.
+15	Architecture and Processing using Spring Cloud Dataflow	https://spring.io/projects/spring-cloud-dataflowLinks to an external site.
